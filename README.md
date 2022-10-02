@@ -15,8 +15,8 @@ for solving this problem.
 
 ## Results
 The RMSE value of models are:-
-<ol>Bayesian Ridge    --> 77.04498657347912</ol>
-<ol>Kernal Ridge      --> 106.81986414973701</ol>
+<ol>Bayesian Ridge    --> 78.6561308452215</ol>
+<ol>Kernal Ridge      --> 104.55667814973701</ol>
 <ol>Gradient Boosting --> 39.32386414965427</ol>
 
 ## RMSE value of best model is 39.323 by Gradient Boosting
